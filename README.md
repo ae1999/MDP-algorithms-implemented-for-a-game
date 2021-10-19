@@ -1,6 +1,7 @@
 Algorithms:
 
 -- On-policy Monte-Carlo
+
 -- Off-policy Monte-Carlo
 -- Double Q-learning
 -- Tree Back-up
